@@ -1,7 +1,7 @@
 [![Twitter: 翔世/Syosei](https://img.shields.io/twitter/follow/mizugamiaqua?style=social)](https://twitter.com/mizugamiaqua) <br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syoseioka&theme=vue)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syoseioka&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syoseioka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=syoseioka)
 
 - 👋 Hi, I’m @syoseioka
 - 👀 I’m interested in Math.but i cannot ;;
