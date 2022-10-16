@@ -6,7 +6,7 @@
 - 👋 Hi, I’m @syoseioka
 - 👀 I’m interested in Math.but i cannot ;;
 - 🌱 I’m currently learning English. 
-- 📫 You can reach me via DM　on Twitter.
+- 📫 You can reach me via DM on Twitter.
 
 <!---
 syoseioka/syoseioka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
