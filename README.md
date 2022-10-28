@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @syoseioka
 - 👀 I’m interested in Math.but i cannot ;;
-- 🌱 I’m currently learning English. 
+- 🌱 I’m currently learning English and Cloud Computing . 
 - 📫 You can reach me via DM on Twitter.
 
 <!---
