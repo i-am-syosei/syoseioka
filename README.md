@@ -7,8 +7,3 @@
 - 👀 I’m interested in Math.but i cannot ;;
 - 🌱 I’m currently learning English and Cloud Computing . 
 - 📫 You can reach me via DM on Twitter.
-
-<!---
-syoseioka/syoseioka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
